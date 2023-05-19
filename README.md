@@ -1,6 +1,6 @@
 # Calculadora
 
-![calculadora]()
+![calculadora 1](https://github.com/rtoDantas/Calculadora/assets/118134112/b507ac3f-5a51-48df-a22c-9e8610144a40)
 
 Este é o repositório de uma calculadora simples implementada em Java. A calculadora é capaz de realizar operações básicas de adição, subtração, multiplicação e divisão.
 
